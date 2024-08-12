@@ -2,7 +2,7 @@
 
 This is an early version of an API that combines Airbnb listings and flight searches, similar to Booking.com.
 
-⚠️ **Note**: Still under development. It requires optimization to reduce waiting times. If the API does not work, the `refs.py` file might need updating—this hasn't been done yet.
+⚠️ **Note**: Still under development. It requires optimization to reduce waiting times. Also the code is all unorganized and spaghetti as of right now. If the API does not work, the `refs.py` file might need updating—this hasn't been done yet.
 
 ## 🚀 Features
 - Search for Airbnb listings and flights with a single API call.
